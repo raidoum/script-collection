@@ -1,0 +1,78 @@
+{
+    "gotoSymbolStack.currentStackPosition": 9,
+    "gotoSymbolStack.maxStackPosition": 9,
+    "gotoSymbolStack.filePositionInfo": [
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 134,
+                "character": 37
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 134,
+                "character": 26
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 139,
+                "character": 35
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 139,
+                "character": 34
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 158,
+                "character": 29
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 198,
+                "character": 32
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 164,
+                "character": 37
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 233,
+                "character": 9
+            }
+        },
+        {
+            "textFile": "/Users/shohei/dev/script/lang/py/convert_format.py",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 233,
+                "character": 10
+            }
+        }
+    ]
+}
