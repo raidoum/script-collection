@@ -1,0 +1,41 @@
+:set shell=/bin/zsh
+:set shiftwidth=4
+:set tabstop=4
+:set expandtab
+:set textwidth=0
+:set clipboard+=unnamed
+:set cursorline
+:set ignorecase
+:set number
+:set nowrapscan
+:set nowrap
+
+nmap <ESC><ESC> :nohlsearch<CR><ESC>
+
+map <S-k> 20k
+map <S-j> 20j
+map <S-l> $
+map <S-h> 0
+
+nmap <F1> :Explore<CR>
+nmap <F2> :BufExplorer<CR>
+nmap <F3> :Files<CR>
+nmap <F4> :Tlist<CR>
+
+nmap <S-t> <C-t>
+nmap f :cn<CR>
+nmap <S-f> :cp<CR>
+
+nmap wl <C-w>l
+nmap wh <C-w>h
+nmap wj <C-w>j
+nmap wk <C-w>k
+nmap wv :vsplit<CR> 
+nmap ws :split<CR> 
+nmap wc :quit<CR>
+nmap <C-c> :qa!<CR>
+
+nmap , <C-w><
+nmap . <C-w>>
+
+nmap <S-u> <C-r> 
